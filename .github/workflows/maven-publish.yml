@@ -40,4 +40,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ${{ secrets.DOCKERHUB_USERNAME }}/wfa25:latest
+        tags: ${{ secrets.DOCKERHUB_USERNAME }}/sms:latest
