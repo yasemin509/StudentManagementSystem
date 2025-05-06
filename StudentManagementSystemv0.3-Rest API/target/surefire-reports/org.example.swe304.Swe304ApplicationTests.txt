@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.swe304.Swe304ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.790 s -- in org.example.swe304.Swe304ApplicationTests
